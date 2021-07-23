@@ -322,6 +322,7 @@ footer{
     .top-wrapper {
         background-image: url(./moon.jpg);
         background-position: cover;
+        background-position:center;
         color:white;
     }
 
